@@ -19,9 +19,11 @@ header {
     text-align: center;
 }
 footer {
-    align-items: center;
+    
 }
 footer p {
     text-align: center;
-    text-decoration-color:#55c7df;
+    color:#55c7df;
+    font-weight:bold;
+    
 }
