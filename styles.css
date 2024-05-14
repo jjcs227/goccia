@@ -22,6 +22,6 @@ footer {
     align-items: center;
 }
 footer p {
-    align-self: center;
+    text-align: center;
     text-decoration-color:#55c7df;
 }
