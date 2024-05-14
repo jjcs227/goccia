@@ -18,6 +18,9 @@ header {
     width: 100%;
     text-align: center;
 }
+footer {
+    align-items: center;
+}
 footer p {
     text-decoration-color:#55c7df;
 }
